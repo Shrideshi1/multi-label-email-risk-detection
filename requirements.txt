@@ -1,0 +1,33 @@
+# Core Data Science Libraries
+
+numpy
+pandas
+scikit-learn
+
+# Data Visualization
+
+matplotlib
+seaborn
+
+# Machine Learning Models
+
+xgboost
+
+# Natural Language Processing
+
+nltk
+spacy
+
+# Transformer Models (DistilBERT / RoBERTa)
+
+transformers
+torch
+
+# Jupyter / Google Colab Support
+
+jupyter
+ipykernel
+
+# Model Persistence
+
+joblib
