@@ -20,11 +20,16 @@ After downloading and preparing the datasets, the expected structure is:
 
 ```
 data/
-├── raw/
-│   └── Original datasets
 │
-└── processed/
-    └── combined_dataset.csv
+├── raw/
+│   └── README.md
+│
+├── processed/
+│   └── README.md
+│
+├── combined_dataset.csv
+│
+└── README.md
 ```
 
 ## Processing
