@@ -2,7 +2,14 @@
 
 This folder contains trained machine learning models generated for the **Multi-Label Email Risk Detection Using Machine Learning** project.
 
-Due to file size limitations, some large model artifacts (such as transformer checkpoints) may be stored externally using Google Colab/Google Drive storage.
+## Model Storage Note
+
+Some large model artifacts exceed GitHub's file size limits and are therefore stored externally using Google Drive/Colab storage instead of being committed to this repository.
+
+External model files include:
+- `multi_label_email_risk_mlp.keras`
+- `mlp_model.pkl`
+- `distilbert_email_risk/`
 
 ---
 
