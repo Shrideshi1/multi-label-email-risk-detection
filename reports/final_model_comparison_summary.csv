@@ -1,0 +1,7 @@
+Model,Strengths,Limitations
+Logistic Regression,"Interpretable coefficients, fast training, and a strong linear baseline.",Limited ability to capture complex nonlinear and contextual relationships.
+Random Forest,"High precision, nonlinear decision boundaries, and robust ensemble performance.",Reduced interpretability and potentially high memory requirements.
+SVM,Strong high-dimensional classification performance and effective margin-based separation.,Can require substantial computation and provides limited direct interpretability.
+XGBoost,"Excellent overall performance, strong handling of nonlinear patterns, and efficient inference.",Requires hyperparameter tuning and provides less transparent decision logic.
+Neural Network,Captures nonlinear feature relationships and provides probability estimates for every risk category.,Requires architecture and training-parameter tuning and may overfit without regularization.
+DistilBERT,Uses contextual language representations and captures semantic relationships beyond TF-IDF features.,Requires substantially greater training and inference time and was evaluated using an exploratory sample.

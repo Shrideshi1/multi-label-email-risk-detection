@@ -1,0 +1,8 @@
+Risk Category,Binary Cross-Entropy Loss
+financial_risk,0.013967038053209558
+phishing_spam_risk,0.013252539631973813
+legal_risk,0.011401553931261466
+proprietary_risk,0.00019653081189879718
+credential_risk,3.4587670009603184e-05
+attachment_risk,6.9777748797979825e-06
+customer_info_risk,5.44737786489862e-06

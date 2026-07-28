@@ -1,0 +1,6 @@
+Model,False Negatives
+Logistic Regression,96
+Neural Network,80
+Random Forest,132
+SVM,158
+XGBoost,152

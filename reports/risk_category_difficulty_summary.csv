@@ -1,0 +1,8 @@
+Risk Category,F1 Score
+financial_risk,0.9534342122235742
+proprietary_risk,0.9892710472075166
+phishing_spam_risk,0.9901122479875297
+legal_risk,0.9933085716908971
+credential_risk,0.9972066330756567
+attachment_risk,0.9985255056201774
+customer_info_risk,0.9988927319709255

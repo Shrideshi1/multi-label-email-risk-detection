@@ -1,0 +1,7 @@
+Evaluation Criterion,Best Model,Value
+Best Weighted F1,DistilBERT,0.9944887317095135
+Best Weighted Recall,Neural Network,0.9927299163940385
+Best Micro F1,Random Forest,0.9928767123287672
+Best Macro F1,Neural Network,0.9919172677346164
+Lowest Hamming Loss,DistilBERT,0.0012362833847599976
+Best Subset Accuracy,Neural Network,0.9918466599914175

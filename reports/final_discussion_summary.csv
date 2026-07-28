@@ -1,0 +1,5 @@
+Metric,Result
+Best Overall Model,DistilBERT
+Best Weighted F1,DistilBERT (0.9945)
+Lowest Hamming Loss,DistilBERT (0.0012)
+Fewest False Negatives,Neural Network (80)
