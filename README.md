@@ -86,22 +86,43 @@ cloudflared tunnel --url http://localhost:5000
 
 ## Repository Structure
 
-```
+```text
 multi-label-email-risk-detection/
 │
-├── notebooks/
-│   ├── 01_data_preparation.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   ├── 03_model_training.ipynb
-│   └── 04_evaluation.ipynb
-│
 ├── data/
-│   └── README.md
+│   ├── combined_dataset.csv              # Unified multi-label email risk dataset
+│   ├── raw/                              # Original source datasets
+│   └── processed/                        # Cleaned and transformed datasets
+│
+├── notebooks/
+│   ├── 01_data_preparation.ipynb         # Data loading and preprocessing
+│   ├── 02_feature_engineering.ipynb      # TF-IDF and metadata feature extraction
+│   ├── 03_model_training.ipynb            # Machine learning model training
+│   ├── 04_evaluation.ipynb                # Model evaluation and analysis
+│   └── demo.ipynb                         # Project demonstration notebook
+│
+├── models/
+│   ├── distilbert_email_risk/             # Fine-tuned DistilBERT model files
+│   ├── svm_model.pkl                      # Trained SVM model
+│   ├── mlp_model.pkl                      # Trained MLP classifier
+│   ├── xgboost_model.pkl                  # Trained XGBoost model
+│   ├── logistic_regression_model.pkl      # Trained Logistic Regression model
+│   ├── random_forest_model.pkl            # Trained Random Forest model
+│   └── multi_label_email_risk_mlp.keras   # Saved neural network model
+│
+├── reports/                               # Additional reports
+│   └── final_report.pdf                   # Final project report 
 │
 ├── figures/
-├── models/
-├── requirements.txt
-└── README.md
+│   ├── overall_model_performance.png      # Model comparison visualizations
+│   ├── hamming_loss_comparison.png        # Multi-label error analysis
+│   └── ...                                # Additional evaluation figures
+│
+├── app.py                                 # Application entry point
+├── cloudflared/                           # Cloudflare tunnel configuration/files
+├── requirements.txt                       # Python package dependencies
+│
+└── README.md                              # Project documentation
 ```
 
 ---
