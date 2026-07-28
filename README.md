@@ -22,6 +22,15 @@ python app.py
 cloudflared tunnel --url http://localhost:5000
 
 ---
+## Development Environment
+
+The initial development, experimentation, and model training for this project were conducted using Google Colab. The Colab notebooks contain the original workflow, including data preprocessing, feature engineering, model training, and evaluation steps.
+
+For reference, the Google Colab project files are available here:
+
+[Google Colab Development Folder](https://drive.google.com/drive/folders/1SLhiH7VulyiPZ7L846kJBEbN1pa4c4zU?usp=sharing)
+
+Note: The repository contains the finalized project files and results. The Google Colab folder is provided as a reference to demonstrate the initial development and experimentation process.
 
 ## Project Goals
 
