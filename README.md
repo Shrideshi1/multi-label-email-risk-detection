@@ -7,6 +7,19 @@ This project develops a **multi-label email risk detection system** that identif
 Unlike traditional email filtering systems that assign a single label, this approach allows an email to be classified into multiple risk categories simultaneously, including phishing, spam, confidential information, financial risks, and legal risks.
 
 The project evaluates traditional machine learning models and explores transformer-based approaches for improved text understanding.
+---
+### Running the Demo Application
+
+1. Install cloudflared:
+https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/
+
+2. Start Flask app:
+
+python app.py
+
+3. Create a public tunnel:
+
+cloudflared tunnel --url http://localhost:5000
 
 ---
 
