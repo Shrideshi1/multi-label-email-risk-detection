@@ -3,6 +3,7 @@
 numpy
 pandas
 scikit-learn
+scipy
 
 # Data Visualization
 
@@ -22,12 +23,19 @@ spacy
 
 transformers
 torch
+accelerate
+datasets
+evaluate
 
 # Jupyter / Google Colab Support
 
+notebook
 jupyter
 ipykernel
 
 # Model Persistence
 
 joblib
+
+# Utilities
+tqdm
