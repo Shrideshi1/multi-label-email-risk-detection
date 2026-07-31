@@ -1,211 +1,211 @@
 Model,Risk Category,Feature,Importance
-Logistic Regression,financial_risk,dnschanger,34.82127669753311
-Logistic Regression,financial_risk,dear number,33.828988527461426
-Logistic Regression,financial_risk,incompatible,32.60356997370565
-Logistic Regression,financial_risk,cooling,32.245254938165054
-Logistic Regression,financial_risk,andrew,29.38310168692034
-Logistic Regression,financial_risk,medium,27.589713753858923
-Logistic Regression,financial_risk,meat,23.809677080911143
-Logistic Regression,financial_risk,ireporters unusual,22.401406238926327
-Logistic Regression,financial_risk,daughter,20.68674280385315
-Logistic Regression,financial_risk,daughter caylee,19.754549931328263
-Logistic Regression,credential_risk,encouraged,11.016560536058924
-Logistic Regression,credential_risk,liability terms,9.830399783061049
-Logistic Regression,credential_risk,linguistic,9.811184150319805
-Logistic Regression,credential_risk,argument,9.39097196147677
-Logistic Regression,credential_risk,alternative,9.203698570494119
-Logistic Regression,credential_risk,covered,8.213313383913382
-Logistic Regression,credential_risk,continuing,7.259780970211561
-Logistic Regression,credential_risk,eggs url,6.863406684611901
-Logistic Regression,credential_risk,hearing,6.486784064387716
-Logistic Regression,credential_risk,internally,6.391070194749324
-Logistic Regression,customer_info_risk,alto,13.031825381822282
-Logistic Regression,customer_info_risk,barista stand,12.136843134636344
-Logistic Regression,customer_info_risk,mail address,10.254649008599271
-Logistic Regression,customer_info_risk,list send,10.242464537663015
-Logistic Regression,customer_info_risk,builds,10.215813628912471
-Logistic Regression,customer_info_risk,ad number,9.745163113561546
-Logistic Regression,customer_info_risk,inconvenient,9.465187647697073
-Logistic Regression,customer_info_risk,loves,9.234598547078901
-Logistic Regression,customer_info_risk,hearing,8.543445973711169
-Logistic Regression,customer_info_risk,displays,8.423817882464023
-Logistic Regression,proprietary_risk,hearing,21.19402227230916
-Logistic Regression,proprietary_risk,cognitive,9.082683925841975
-Logistic Regression,proprietary_risk,imo,9.025176788303348
-Logistic Regression,proprietary_risk,findings,9.01247694724739
-Logistic Regression,proprietary_risk,included,8.571932846162326
-Logistic Regression,proprietary_risk,harm,8.469678776933986
-Logistic Regression,proprietary_risk,lib usr,8.397497888848978
-Logistic Regression,proprietary_risk,eclipse,8.303371078000827
-Logistic Regression,proprietary_risk,cnet news,8.156711441200134
-Logistic Regression,proprietary_risk,format number,7.610117158795029
-Logistic Regression,legal_risk,medium,84.49505039577342
-Logistic Regression,legal_risk,dnschanger,54.80423302270699
-Logistic Regression,legal_risk,high,35.45919495200051
-Logistic Regression,legal_risk,buy replicas,31.021279842520407
-Logistic Regression,legal_risk,actual,30.401896342918974
-Logistic Regression,legal_risk,meaning,26.82409624381785
-Logistic Regression,legal_risk,cooling,24.16016345366746
-Logistic Regression,legal_risk,driver guilty,23.58670099972652
-Logistic Regression,legal_risk,imagine,23.340155894511497
-Logistic Regression,legal_risk,md number,23.26936452745883
-Logistic Regression,attachment_risk,ceo,9.921625514347284
-Logistic Regression,attachment_risk,meat,9.634816908978296
-Logistic Regression,attachment_risk,companies,8.86527898116403
-Logistic Regression,attachment_risk,attack toronto,8.190522362401682
-Logistic Regression,attachment_risk,getting,8.121790811957961
-Logistic Regression,attachment_risk,ham number,6.878510477789382
-Logistic Regression,attachment_risk,cheese,6.859022023123513
-Logistic Regression,attachment_risk,hearing,6.610480652085087
-Logistic Regression,attachment_risk,artificial,6.31459916122273
-Logistic Regression,attachment_risk,contact customer,5.997045613448325
-Logistic Regression,phishing_spam_risk,dnschanger,42.66064106842923
-Logistic Regression,phishing_spam_risk,buy replicas,33.513595980139925
-Logistic Regression,phishing_spam_risk,imagine,30.758617300681266
-Logistic Regression,phishing_spam_risk,function classtree,30.572951404504412
-Logistic Regression,phishing_spam_risk,medium,29.31600046141478
-Logistic Regression,phishing_spam_risk,attached xlsx,28.91314279311918
-Logistic Regression,phishing_spam_risk,md number,27.98276701325364
-Logistic Regression,phishing_spam_risk,email sent,26.378049855227143
-Logistic Regression,phishing_spam_risk,mandateto,23.531668179380357
-Logistic Regression,phishing_spam_risk,frequent,23.044660858529447
-Random Forest,financial_risk,dear number,0.03910151966584563
-Random Forest,financial_risk,incompatible,0.03741927424987012
-Random Forest,financial_risk,cooling,0.03181732229611015
-Random Forest,financial_risk,meat,0.031055905064093656
-Random Forest,financial_risk,list send,0.024308388350436076
-Random Forest,financial_risk,ireporters unusual,0.0229979299337732
-Random Forest,financial_risk,barista stand,0.02186953894351828
-Random Forest,financial_risk,displays,0.020561008572861604
-Random Forest,financial_risk,inconvenient,0.01916465000535195
-Random Forest,financial_risk,andrew,0.018020871526651546
-Random Forest,credential_risk,alternative,0.08165597039846177
-Random Forest,credential_risk,liability terms,0.07989266992914898
-Random Forest,credential_risk,linguistic,0.0691621361387554
-Random Forest,credential_risk,linear,0.04776498848979248
-Random Forest,credential_risk,covered,0.045227023287195224
-Random Forest,credential_risk,expressed,0.04441455940986369
-Random Forest,credential_risk,argument,0.043416927180788344
-Random Forest,credential_risk,mail sent,0.04036915857518834
-Random Forest,credential_risk,imo,0.03897792321949403
-Random Forest,credential_risk,harm,0.03314658625187355
-Random Forest,customer_info_risk,lib module,0.06320760855178864
-Random Forest,customer_info_risk,draw,0.06122030211311918
-Random Forest,customer_info_risk,displays,0.05497037132275437
-Random Forest,customer_info_risk,list send,0.05405070999373817
-Random Forest,customer_info_risk,barista stand,0.05249170731266337
-Random Forest,customer_info_risk,inconvenient,0.05064348966495657
-Random Forest,customer_info_risk,appreciate,0.048407189240702066
-Random Forest,customer_info_risk,ireporters unusual,0.04812095768801676
-Random Forest,customer_info_risk,alto,0.04488821850571702
-Random Forest,customer_info_risk,loves,0.042382205218388515
-Random Forest,proprietary_risk,harm,0.08310341189830772
-Random Forest,proprietary_risk,imo,0.07993577497607833
-Random Forest,proprietary_risk,findings,0.07578685020669469
-Random Forest,proprietary_risk,events company,0.0755646647756254
-Random Forest,proprietary_risk,hearing,0.06356380169621244
-Random Forest,proprietary_risk,buying,0.059644929789713336
-Random Forest,proprietary_risk,argument,0.05471293628525989
-Random Forest,proprietary_risk,joe,0.04100151043083751
-Random Forest,proprietary_risk,alternative,0.03575793878924051
-Random Forest,proprietary_risk,linguistic,0.03197964451214073
-Random Forest,legal_risk,california usa,0.07924799060586057
-Random Forest,legal_risk,dnschanger,0.07203801823987324
-Random Forest,legal_risk,medium,0.027653240315892263
-Random Forest,legal_risk,meaning,0.015294335589601783
-Random Forest,legal_risk,actual,0.015027613508533723
-Random Forest,legal_risk,followed,0.01452709168883793
-Random Forest,legal_risk,express,0.012755021441881164
-Random Forest,legal_risk,md number,0.012648722401284701
-Random Forest,legal_risk,limited proposal,0.009576878368092023
-Random Forest,legal_risk,empirical,0.009479535502565686
-Random Forest,attachment_risk,ceo,0.12255673548730922
-Random Forest,attachment_risk,attack toronto,0.06920852712841731
-Random Forest,attachment_risk,meat,0.059061065958990716
-Random Forest,attachment_risk,incompatible,0.05628353186490283
-Random Forest,attachment_risk,dear number,0.056259375930996856
-Random Forest,attachment_risk,companies,0.0560730411425182
-Random Forest,attachment_risk,driver guilty,0.04285173391160282
-Random Forest,attachment_risk,entities,0.03620276015253557
-Random Forest,attachment_risk,artificial,0.033546984389371794
-Random Forest,attachment_risk,incorrect,0.033389661628324796
-Random Forest,phishing_spam_risk,california usa,0.08888977139810667
-Random Forest,phishing_spam_risk,dnschanger,0.06133232942068146
-Random Forest,phishing_spam_risk,experience,0.015819456772000983
-Random Forest,phishing_spam_risk,dis,0.012182739157083398
-Random Forest,phishing_spam_risk,mandateto,0.011663930783328651
-Random Forest,phishing_spam_risk,fc number,0.011659315408880664
-Random Forest,phishing_spam_risk,mandate,0.011445977008297515
-Random Forest,phishing_spam_risk,evaluating,0.011095077234637958
-Random Forest,phishing_spam_risk,meaning,0.011054185530788407
-Random Forest,phishing_spam_risk,md number,0.008515744118968107
-XGBoost,financial_risk,incompatible,0.09690342843532562
-XGBoost,financial_risk,andrew,0.06512008607387543
-XGBoost,financial_risk,list send,0.04617614299058914
-XGBoost,financial_risk,dnschanger,0.04610544443130493
-XGBoost,financial_risk,california usa,0.03572520241141319
-XGBoost,financial_risk,cooling,0.028829054906964302
-XGBoost,financial_risk,dear number,0.021174147725105286
-XGBoost,financial_risk,daughter caylee,0.021122269332408905
-XGBoost,financial_risk,heart,0.020037012174725533
-XGBoost,financial_risk,favorite,0.018332568928599358
-XGBoost,credential_risk,liability terms,0.5692322850227356
-XGBoost,credential_risk,alternative,0.13362231850624084
-XGBoost,credential_risk,claimed,0.0585881769657135
-XGBoost,credential_risk,inconsistent,0.03738081082701683
-XGBoost,credential_risk,continuing,0.02435065619647503
-XGBoost,credential_risk,error,0.01975163258612156
-XGBoost,credential_risk,hearing,0.013949916698038578
-XGBoost,credential_risk,encouraged,0.013491621240973473
-XGBoost,credential_risk,business intelligence,0.01179739274084568
-XGBoost,credential_risk,inches length,0.011549433693289757
-XGBoost,customer_info_risk,euro number,0.6519047617912292
-XGBoost,customer_info_risk,inconvenient,0.3305574655532837
-XGBoost,customer_info_risk,ad draws,0.003249190514907241
-XGBoost,customer_info_risk,ad number,0.0031848328653723
-XGBoost,customer_info_risk,commands,0.0009158832253888249
-XGBoost,customer_info_risk,jl,0.0008075486985035241
-XGBoost,customer_info_risk,germany,0.0007269805646501482
-XGBoost,customer_info_risk,loves,0.0007249915506690741
-XGBoost,customer_info_risk,barista stand,0.0006565831718035042
-XGBoost,customer_info_risk,attack toronto,0.0006450585788115859
-XGBoost,proprietary_risk,findings,0.8292189240455627
-XGBoost,proprietary_risk,dnschanger,0.06767336279153824
-XGBoost,proprietary_risk,inconsistent,0.055401548743247986
-XGBoost,proprietary_risk,hearing,0.012904931791126728
-XGBoost,proprietary_risk,decision,0.0037585708778351545
-XGBoost,proprietary_risk,cognitive,0.0033396214712411165
-XGBoost,proprietary_risk,hermes apache,0.002880374202504754
-XGBoost,proprietary_risk,format number,0.002396521158516407
-XGBoost,proprietary_risk,cnet news,0.0022817885037511587
-XGBoost,proprietary_risk,included,0.0022641888353973627
-XGBoost,legal_risk,dnschanger,0.03914685547351837
-XGBoost,legal_risk,medium,0.03164784610271454
-XGBoost,legal_risk,california usa,0.03093690238893032
-XGBoost,legal_risk,actual,0.029389549046754837
-XGBoost,legal_risk,meat,0.028192605823278427
-XGBoost,legal_risk,luxurious costume,0.02797091007232666
-XGBoost,legal_risk,alternative,0.027817673981189728
-XGBoost,legal_risk,dual,0.02144339494407177
-XGBoost,legal_risk,incompatible,0.02111189067363739
-XGBoost,legal_risk,evening,0.02106945775449276
-XGBoost,attachment_risk,ceo,0.47641250491142273
-XGBoost,attachment_risk,attack toronto,0.11778641492128372
-XGBoost,attachment_risk,fw,0.07192070037126541
-XGBoost,attachment_risk,department computer,0.056347981095314026
-XGBoost,attachment_risk,commentary,0.028439097106456757
-XGBoost,attachment_risk,american states,0.02560294419527054
-XGBoost,attachment_risk,filtering,0.023575345054268837
-XGBoost,attachment_risk,march number,0.023474616929888725
-XGBoost,attachment_risk,getting,0.018949534744024277
-XGBoost,attachment_risk,ham number,0.018624845892190933
-XGBoost,phishing_spam_risk,california usa,0.059853654354810715
-XGBoost,phishing_spam_risk,lowest,0.03902733698487282
-XGBoost,phishing_spam_risk,express,0.03618327155709267
-XGBoost,phishing_spam_risk,buy com,0.021150028333067894
-XGBoost,phishing_spam_risk,conjunction,0.019412705674767494
-XGBoost,phishing_spam_risk,demonstration,0.015224124304950237
-XGBoost,phishing_spam_risk,fat,0.014760182239115238
-XGBoost,phishing_spam_risk,exp,0.014723138883709908
-XGBoost,phishing_spam_risk,evaluating,0.013535873033106327
-XGBoost,phishing_spam_risk,billing adjustment,0.012602097354829311
+Logistic Regression,financial_risk,num_exclamation,30.096150559877948
+Logistic Regression,financial_risk,url,29.099563349221334
+Logistic Regression,financial_risk,classic,26.769643175275352
+Logistic Regression,financial_risk,nokia,24.635603756020288
+Logistic Regression,financial_risk,compared,24.2340123168671
+Logistic Regression,financial_risk,email,21.73267534204497
+Logistic Regression,financial_risk,earn,21.450719831587964
+Logistic Regression,financial_risk,shares,21.425713674605685
+Logistic Regression,financial_risk,finland,19.71455918499386
+Logistic Regression,financial_risk,num_question,19.597617484458194
+Logistic Regression,credential_risk,key,17.907460356531324
+Logistic Regression,credential_risk,permissions,15.558909417523568
+Logistic Regression,credential_risk,automated,12.981407241305153
+Logistic Regression,credential_risk,issued,12.468541406437922
+Logistic Regression,credential_risk,handle,10.723042640842431
+Logistic Regression,credential_risk,previous,10.708871226659216
+Logistic Regression,credential_risk,environment,9.620599066071364
+Logistic Regression,credential_risk,cert,9.56044503717267
+Logistic Regression,credential_risk,renewal,9.276887490007736
+Logistic Regression,credential_risk,sk,9.010278558162891
+Logistic Regression,customer_info_risk,updated,11.509058602375115
+Logistic Regression,customer_info_risk,has_customer_terms,9.632857002167558
+Logistic Regression,customer_info_risk,project,8.832081180626435
+Logistic Regression,customer_info_risk,billing,8.533744543790304
+Logistic Regression,customer_info_risk,account number,8.414870888830572
+Logistic Regression,customer_info_risk,research,8.240502604834893
+Logistic Regression,customer_info_risk,has_attachment_ext,7.857372599891511
+Logistic Regression,customer_info_risk,payments,7.660530729595221
+Logistic Regression,customer_info_risk,record number,7.557468415654709
+Logistic Regression,customer_info_risk,transaction,7.463256495689453
+Logistic Regression,proprietary_risk,feature,12.905826438431886
+Logistic Regression,proprietary_risk,project,12.89455728549759
+Logistic Regression,proprietary_risk,testing,12.121073180185531
+Logistic Regression,proprietary_risk,development,11.65137723923976
+Logistic Regression,proprietary_risk,notes,11.644246504558096
+Logistic Regression,proprietary_risk,undocumented,10.889480121205544
+Logistic Regression,proprietary_risk,design,10.779995852340754
+Logistic Regression,proprietary_risk,leadership,10.726137729142984
+Logistic Regression,proprietary_risk,results,9.990308447000633
+Logistic Regression,proprietary_risk,specifications,9.535168718528238
+Logistic Regression,legal_risk,word_count,66.83547783241526
+Logistic Regression,legal_risk,url,45.13454848845064
+Logistic Regression,legal_risk,num_exclamation,31.153813550650128
+Logistic Regression,legal_risk,text_length,26.905313111021073
+Logistic Regression,legal_risk,watch,26.54373202047634
+Logistic Regression,legal_risk,num_digits,20.77889414311219
+Logistic Regression,legal_risk,num_uppercase,20.306835745309673
+Logistic Regression,legal_risk,collectively,19.07268452601261
+Logistic Regression,legal_risk,llc,19.02777621717346
+Logistic Regression,legal_risk,finland,18.121734678734686
+Logistic Regression,attachment_risk,has_attachment_ext,16.514281645889206
+Logistic Regression,attachment_risk,word_count,9.137327091118912
+Logistic Regression,attachment_risk,text_length,7.78235292157862
+Logistic Regression,attachment_risk,url,5.2572683407061325
+Logistic Regression,attachment_risk,security,5.237770317758785
+Logistic Regression,attachment_risk,operations,5.07120181590213
+Logistic Regression,attachment_risk,engineering,4.922851655241799
+Logistic Regression,attachment_risk,research,4.722228991136028
+Logistic Regression,attachment_risk,finance,4.545591113019979
+Logistic Regression,attachment_risk,contains,4.349977716780088
+Logistic Regression,phishing_spam_risk,url,29.42736338025426
+Logistic Regression,phishing_spam_risk,url number,25.00049520295682
+Logistic Regression,phishing_spam_risk,love,23.34428069602709
+Logistic Regression,phishing_spam_risk,ce number,22.738444222761792
+Logistic Regression,phishing_spam_risk,rant,21.94324261651814
+Logistic Regression,phishing_spam_risk,fork,21.884117763612583
+Logistic Regression,phishing_spam_risk,wrote,21.619293203247363
+Logistic Regression,phishing_spam_risk,watches,20.22104193374274
+Logistic Regression,phishing_spam_risk,ce,19.90233356484956
+Logistic Regression,phishing_spam_risk,watch,19.766733989165303
+Random Forest,financial_risk,eur number,0.022476817582606255
+Random Forest,financial_risk,text_length,0.02061097233136009
+Random Forest,financial_risk,eur,0.01879112371868603
+Random Forest,financial_risk,revenue,0.017839990393486015
+Random Forest,financial_risk,word_count,0.016935428922287266
+Random Forest,financial_risk,num_uppercase,0.015312588822431914
+Random Forest,financial_risk,forecast,0.014511348624020759
+Random Forest,financial_risk,billing adjustment,0.013568572161681128
+Random Forest,financial_risk,shows billing,0.012954877446724952
+Random Forest,financial_risk,forecast number,0.012871359594852727
+Random Forest,credential_risk,token,0.048103739319787106
+Random Forest,credential_risk,temporary,0.04102288448239346
+Random Forest,credential_risk,access,0.03852352637388759
+Random Forest,credential_risk,token api,0.0312614122719915
+Random Forest,credential_risk,verify,0.02682994743182491
+Random Forest,credential_risk,source code,0.026362796262685208
+Random Forest,credential_risk,verify mailbox,0.024716935898939675
+Random Forest,credential_risk,using temporary,0.023875823175358402
+Random Forest,credential_risk,private repository,0.023055643607032335
+Random Forest,credential_risk,mailbox password,0.022882680598570918
+Random Forest,customer_info_risk,account number,0.030218927803258414
+Random Forest,customer_info_risk,updated,0.028323664271066296
+Random Forest,customer_info_risk,liability terms,0.027742294848739406
+Random Forest,customer_info_risk,billing,0.026634391851078854
+Random Forest,customer_info_risk,adjustment number,0.02660006001163282
+Random Forest,customer_info_risk,terms,0.02645215782836507
+Random Forest,customer_info_risk,shows billing,0.02622511835558333
+Random Forest,customer_info_risk,history,0.02618993802641435
+Random Forest,customer_info_risk,client number,0.02610358467600095
+Random Forest,customer_info_risk,account,0.025873242306294415
+Random Forest,proprietary_risk,code moved,0.05344723220375595
+Random Forest,proprietary_risk,private repository,0.04579952024961041
+Random Forest,proprietary_risk,token api,0.04007876629429304
+Random Forest,proprietary_risk,private,0.038462805904059365
+Random Forest,proprietary_risk,access token,0.037411982715364875
+Random Forest,proprietary_risk,source code,0.03427265657298915
+Random Forest,proprietary_risk,limited,0.03410575349520416
+Random Forest,proprietary_risk,moved,0.03393293357053451
+Random Forest,proprietary_risk,number limited,0.032576714212685806
+Random Forest,proprietary_risk,repository temporary,0.03117665577576568
+Random Forest,legal_risk,word_count,0.15024248482838204
+Random Forest,legal_risk,text_length,0.1137382261683774
+Random Forest,legal_risk,num_uppercase,0.1073562055514443
+Random Forest,legal_risk,url,0.056239858330965786
+Random Forest,legal_risk,number,0.043949505211383355
+Random Forest,legal_risk,num_digits,0.04252478932810624
+Random Forest,legal_risk,num_exclamation,0.02457001081322626
+Random Forest,legal_risk,number number,0.023283146569395913
+Random Forest,legal_risk,num_question,0.0222639081821039
+Random Forest,legal_risk,yes,0.012169483958287885
+Random Forest,attachment_risk,has_attachment_ext,0.06890357614382096
+Random Forest,attachment_risk,attached,0.06766822077354506
+Random Forest,attachment_risk,contains,0.058563686450096686
+Random Forest,attachment_risk,forecast,0.03361439795055957
+Random Forest,attachment_risk,indemnification language,0.029010218473499765
+Random Forest,attachment_risk,attached docx,0.02753066088407449
+Random Forest,attachment_risk,approval,0.02650141416281085
+Random Forest,attachment_risk,revenue,0.026097119773926446
+Random Forest,attachment_risk,revised indemnification,0.025795642900201855
+Random Forest,attachment_risk,attached xlsx,0.02528143055369358
+Random Forest,phishing_spam_risk,url,0.04938769895874771
+Random Forest,phishing_spam_risk,word_count,0.03731929516510972
+Random Forest,phishing_spam_risk,text_length,0.035176240926661786
+Random Forest,phishing_spam_risk,num_exclamation,0.034616509749459394
+Random Forest,phishing_spam_risk,num_uppercase,0.03099869163406938
+Random Forest,phishing_spam_risk,love,0.012187754871445768
+Random Forest,phishing_spam_risk,number,0.012136562729356553
+Random Forest,phishing_spam_risk,num_digits,0.011748607459998877
+Random Forest,phishing_spam_risk,life,0.01049179035609477
+Random Forest,phishing_spam_risk,men,0.00962170434406974
+XGBoost,financial_risk,revenue,0.48463699221611023
+XGBoost,financial_risk,adjustment,0.24617232382297516
+XGBoost,financial_risk,sales,0.050973229110240936
+XGBoost,financial_risk,eur,0.029766114428639412
+XGBoost,financial_risk,shares,0.014910673722624779
+XGBoost,financial_risk,docx,0.014378962107002735
+XGBoost,financial_risk,income,0.011713889427483082
+XGBoost,financial_risk,url,0.010044369846582413
+XGBoost,financial_risk,has_credential_terms,0.009045230224728584
+XGBoost,financial_risk,client,0.008121497929096222
+XGBoost,credential_risk,temporary,0.7114549875259399
+XGBoost,credential_risk,cluster,0.12571397423744202
+XGBoost,credential_risk,has_credential_terms,0.049472276121377945
+XGBoost,credential_risk,security review,0.025702176615595818
+XGBoost,credential_risk,environment,0.018758784979581833
+XGBoost,credential_risk,issued,0.016921870410442352
+XGBoost,credential_risk,key,0.00923958607017994
+XGBoost,credential_risk,automated,0.008780131116509438
+XGBoost,credential_risk,cert,0.005562258418649435
+XGBoost,credential_risk,text_length,0.005346155725419521
+XGBoost,customer_info_risk,client number,0.6298428177833557
+XGBoost,customer_info_risk,account number,0.32375016808509827
+XGBoost,customer_info_risk,transaction,0.008007807657122612
+XGBoost,customer_info_risk,record number,0.006505640689283609
+XGBoost,customer_info_risk,has_customer_terms,0.006090465467423201
+XGBoost,customer_info_risk,number flagged,0.004798933397978544
+XGBoost,customer_info_risk,text_length,0.00475609116256237
+XGBoost,customer_info_risk,updated,0.004546647891402245
+XGBoost,customer_info_risk,dated,0.002911354647949338
+XGBoost,customer_info_risk,number net,0.0021437611430883408
+XGBoost,proprietary_risk,moved private,0.9801717400550842
+XGBoost,proprietary_risk,has_legal_terms,0.008149993605911732
+XGBoost,proprietary_risk,num_dollar_signs,0.0023966350127011538
+XGBoost,proprietary_risk,project,0.0017917872173711658
+XGBoost,proprietary_risk,num_digits,0.0014735697768628597
+XGBoost,proprietary_risk,internal,0.00046638547792099416
+XGBoost,proprietary_risk,ongoing,0.0004521016962826252
+XGBoost,proprietary_risk,legal,0.0004102773091290146
+XGBoost,proprietary_risk,documentation,0.0003730006283149123
+XGBoost,proprietary_risk,testing,0.00033755923504941165
+XGBoost,legal_risk,text_length,0.4072107970714569
+XGBoost,legal_risk,indemnification,0.1792384833097458
+XGBoost,legal_risk,amendment,0.1586216390132904
+XGBoost,legal_risk,has_legal_terms,0.022863958030939102
+XGBoost,legal_risk,word_count,0.014886860735714436
+XGBoost,legal_risk,contract,0.014090974815189838
+XGBoost,legal_risk,llc,0.010372394695878029
+XGBoost,legal_risk,holds,0.009658456780016422
+XGBoost,legal_risk,url,0.009104738011956215
+XGBoost,legal_risk,collectively,0.0072893728502094746
+XGBoost,attachment_risk,contains,0.8666836619377136
+XGBoost,attachment_risk,has_attachment_ext,0.08030517399311066
+XGBoost,attachment_risk,text_length,0.036832671612501144
+XGBoost,attachment_risk,word_count,0.009087805636227131
+XGBoost,attachment_risk,url,0.004159542266279459
+XGBoost,attachment_risk,attached,0.0024930951185524464
+XGBoost,attachment_risk,num_uppercase,0.0003703504044096917
+XGBoost,attachment_risk,number,6.768670573364943e-05
+XGBoost,attachment_risk,gnupg,0.0
+XGBoost,attachment_risk,gnu linux,0.0
+XGBoost,phishing_spam_risk,number aug,0.12430041283369064
+XGBoost,phishing_spam_risk,wrote,0.047683872282505035
+XGBoost,phishing_spam_risk,email,0.04561793431639671
+XGBoost,phishing_spam_risk,aug,0.03879440575838089
+XGBoost,phishing_spam_risk,aug number,0.03792855143547058
+XGBoost,phishing_spam_risk,text_length,0.02748122066259384
+XGBoost,phishing_spam_risk,using,0.024287717416882515
+XGBoost,phishing_spam_risk,urgent,0.02328607626259327
+XGBoost,phishing_spam_risk,url url,0.022519124671816826
+XGBoost,phishing_spam_risk,password,0.02157662622630596

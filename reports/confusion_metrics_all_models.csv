@@ -1,0 +1,36 @@
+Model,Risk Category,True Negatives,False Positives,False Negatives,True Positives,Total Errors
+Random Forest,financial_risk,13175,4,48,755,52
+Random Forest,credential_risk,13624,0,4,354,4
+Random Forest,customer_info_risk,13622,0,0,360,0
+Random Forest,proprietary_risk,13786,0,8,188,8
+Random Forest,legal_risk,9708,5,18,4251,23
+Random Forest,attachment_risk,13644,0,0,338,0
+Random Forest,phishing_spam_risk,9287,15,54,4626,69
+Neural Network,financial_risk,13166,13,60,743,73
+Neural Network,credential_risk,13624,0,0,358,0
+Neural Network,customer_info_risk,13622,0,0,360,0
+Neural Network,proprietary_risk,13786,0,0,196,0
+Neural Network,legal_risk,9663,50,11,4258,61
+Neural Network,attachment_risk,13644,0,0,338,0
+Neural Network,phishing_spam_risk,9267,35,24,4656,59
+Logistic Regression,financial_risk,13150,29,51,752,80
+Logistic Regression,credential_risk,13624,0,0,358,0
+Logistic Regression,customer_info_risk,13622,0,0,360,0
+Logistic Regression,proprietary_risk,13786,0,0,196,0
+Logistic Regression,legal_risk,9672,41,7,4262,48
+Logistic Regression,attachment_risk,13644,0,0,338,0
+Logistic Regression,phishing_spam_risk,9257,45,38,4642,83
+XGBoost,financial_risk,13170,9,45,758,54
+XGBoost,credential_risk,13624,0,1,357,1
+XGBoost,customer_info_risk,13621,1,0,360,1
+XGBoost,proprietary_risk,13785,1,2,194,3
+XGBoost,legal_risk,9707,6,15,4254,21
+XGBoost,attachment_risk,13644,0,0,338,0
+XGBoost,phishing_spam_risk,9241,61,89,4591,150
+SVM,financial_risk,13136,43,144,659,187
+SVM,credential_risk,13623,1,0,358,1
+SVM,customer_info_risk,13618,4,0,360,4
+SVM,proprietary_risk,13785,1,0,196,1
+SVM,legal_risk,9636,77,34,4235,111
+SVM,attachment_risk,13643,1,0,338,1
+SVM,phishing_spam_risk,9184,118,240,4440,358
